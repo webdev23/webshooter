@@ -3,7 +3,7 @@ WebShooter
 
 <h2>WebShooter - Remotely screenshot any website!</h2>
 
-All is include into one .php file, no special installation, can run on any php server.
+<img width="50px" src="http://7img.fr/di/2ESB0XN/5270da66c6ba5dbf5d000037.png"/> &nbsp;&nbsp;All is include into two .php file, no special installation, can run on any php server.
 
 
 <h3>How this program work?</h3>
