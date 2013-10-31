@@ -14,10 +14,13 @@ file_put_contents('img.png', $unencodedData);
 <h3>How this program work?</h3> 
 <h5>Import a website locally through a local proxy for avoid same-origin policy limitations.<br> Print full page canvas into your browser & save the result to server.<br> By this way the screenshot take the size of your browser window, so you can arrange it just by resizing your browser!<br>Have fun!</h5>
 <table>
-    <tr>
-        <td>
-            <a href="img.png" target="blank">
-            	Shot image server link</a>
+
+<?php
+//Download
+echo '<a href="img.png" download="'.$alt.'" title="'.$alt.'">Download this screenshot</a>';
+?>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://7img.fr/?image=http://github.webdev23.com/webshooter_dev/img.png">Host screenshot permanently</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/webdev23/webshooter">Webshooter source code</a>
         </td>
         <td align="right" style="margin:0 400px 0 0">
 
