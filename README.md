@@ -13,7 +13,7 @@ Print full page canvas into your browser & save the result to server.<br>
 By this way the result image takes the browser size window, you can customize it just by resizing your browser!<br>
 
 
-<h4>Ckeck example demo:</h4> http://github.webdev23.com/webshooter/?shoot=http://en.wikipedia.org/wiki/Traveler 
+<h4>Check example demo:</h4> http://github.webdev23.com/webshooter/?shoot=http://en.wikipedia.org/wiki/Traveler 
 
 
 <h4>Online version:</h4> http://github.webdev23.com/webshooter/?shoot=
