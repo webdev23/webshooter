@@ -20,9 +20,9 @@ By this way the result image takes the browser size window, you can customize it
 
 
 
-For use it, append your url into the shoot variable like the exemple do.<br>
+<h4>For use it</h4>Append your url into the shoot variable like the exemple do.<br>
 Or paste a url into the main page text input.<br> 
-Or use the bookmarklet! (Drag it into your bookmark toolbar) --> <a href="javascript:void(window.location='http://github.webdev23.com/webshooter/?shoot='+encodeURIComponent(window.location.href));">WebShooter_bookmarklet</a><br>
+Or use the bookmarklet! (Drag the logo from the main page into your bookmark toolbar )<br><br>
 Total process can take up to 40 seconds.<br>
 Works fine only on firefox (..) at this moment, with some limitations depending on the remote website size. 
 
