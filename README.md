@@ -22,7 +22,7 @@ By this way the result image takes the browser size window, you can customize it
 
 <h4>For use it</h4>Append your url into the shoot variable like the exemple do.<br>
 Or paste a url into the main page text input.<br> 
-Or use the bookmarklet! (Drag the logo from the main page into your bookmark toolbar )<br><br>
+Or use the bookmarklet! You can then screenshot a website just by clicking it.<br> (Drag the logo from the main page into your bookmark toolbar )<br><br>
 Total process can take up to 40 seconds.<br>
 Works fine only on firefox (..) at this moment, with some limitations depending on the remote website size. 
 
